@@ -1,0 +1,29 @@
+/*selector {
+    property: value;
+}*/
+
+p {
+    color: red;
+    
+}
+
+h1{
+            backgrouolor:blue;
+            color:white;
+        }
+        p{
+            color:green;
+            font-size:111x; 
+            font-style:italic;
+            font-family:verdana;
+            font-weight:bold;
+            txet-decoration:underline;
+        }
+        .linkin{
+            color:rgb(70, 0, 128);
+            text-decoraton:none;
+        }
+        {
+            color:rgb(70, 0, 128);
+            background-color:yellow
+        } 
